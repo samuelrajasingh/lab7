@@ -27,11 +27,9 @@
   </tr>
 
   <tr>
-        <td><img src="./.images/v1.png" width=300 ></td>
-        <td><img src="./.images/v2.png" width=300 ></td>
-        <td><img src="./.images/v3.png" width=300 ></td>
-        <td><img src="./.images/v4.png" width=300 ></td>
+        <td><img src="./images/v1.png" width=300 ></td>
+        <td><img src="./images/v2.png" width=300 ></td>
+        <td><img src="./images/v3.png" width=300 ></td>
+        <td><img src="./images/v4.png" width=300 ></td>
   </tr>
-
-
  </table>
