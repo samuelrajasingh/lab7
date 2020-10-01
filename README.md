@@ -1,5 +1,5 @@
-# Exercise 5
-## Shared Preferences
+# Exercise 7
+## Media Player
 
 ### Audio Player
 <table>
