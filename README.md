@@ -22,13 +22,14 @@
         <td><img src="./images/i11.png" width=240 ></td>
         <td><img src="./images/i12.png" width=240 ></td>
   </tr>
-  </table>
+</table>
+
 ### Video Player
-  <table>
-  <tr>
+<table>
+    <tr>
         <td><img src="./images/v1.png" width=300 ></td>
         <td><img src="./images/v2.png" width=300 ></td>
         <td><img src="./images/v3.png" width=300 ></td>
         <td><img src="./images/v4.png" width=300 ></td>
-  </tr>
- </table>
+    </tr>
+</table>
