@@ -1,7 +1,7 @@
 # Exercise 7
 ## Media Player
 
-### Audio Player
+__Audio Player__
 <table>
 
   <tr>
@@ -23,7 +23,9 @@
         <td><img src="./images/i12.png" width=240 ></td>
   </tr>
 </table>
-### Video Player
+
+__Video Player__
+
 <table>
     <tr>
         <td><img src="./images/v1.png" width=300 ></td>
