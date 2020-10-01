@@ -1,9 +1,9 @@
 # Exercise 5
 ## Shared Preferences
+
+### Audio Player
 <table>
-<tr>
-<td> Audio Player </td>
-</tr>
+
   <tr>
         <td><img src="./images/i1.png" width=240 ></td>
         <td><img src="./images/i2.png" width=240 ></td>
@@ -22,10 +22,9 @@
         <td><img src="./images/i11.png" width=240 ></td>
         <td><img src="./images/i12.png" width=240 ></td>
   </tr>
-  <tr>
-  <td> Video Player </td>
-  </tr>
-
+  </table>
+### Video Player
+  <table>
   <tr>
         <td><img src="./images/v1.png" width=300 ></td>
         <td><img src="./images/v2.png" width=300 ></td>
