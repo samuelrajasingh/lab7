@@ -23,7 +23,6 @@
         <td><img src="./images/i12.png" width=240 ></td>
   </tr>
 </table>
-
 ### Video Player
 <table>
     <tr>
