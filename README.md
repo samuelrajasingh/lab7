@@ -1,8 +1,7 @@
 # Exersice 7
 ## Media Player
 
-
-*_A Audio and Video player _*
+A Audio and Video player
 <table>
 <tr>
 
